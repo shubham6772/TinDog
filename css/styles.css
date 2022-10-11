@@ -1,0 +1,109 @@
+
+body{
+    font-family: "Montserrat";
+}
+
+#title{
+    background-color: #FFA1CF;
+    color: white;
+}
+
+h1{
+    padding: 20%; 
+    font-family: 'Pacifico', cursive;
+
+}
+
+.row{
+    text-align: center;
+    margin: auto;
+}
+
+.imgdiv{
+    overflow: hidden;
+   
+}
+
+.imgiphone{
+    
+   
+    padding-top: 5%;
+    transform: rotate(-20deg);
+}
+
+.btn1{
+  margin-right: 15px ;
+}
+
+h3{
+   font-family: "Monserrat-Bold";
+   font-size: 1.5rem;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+    
+}
+
+#features{
+    padding: 10% 15%;
+}
+
+.icon{
+    color: #FFA1CF;
+}
+
+.icon:hover{
+    color: #FF74B1;
+}
+
+#testimonials{
+  text-align: center;
+  
+  background-color: #ffa1cf;
+  font-family: "Monserrat-Bold";
+}
+
+.testimg{
+    width: 10%;
+    border-radius: 100%;
+    margin-top: 3%;
+}
+
+#press{
+    background-color: #ffa1cf;
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    /* display: flex;
+    justify-content: center; */
+
+}
+
+.carousel-item{
+    padding: 5% 15% 2%; 
+}
+
+.presslogo{
+        width: 12%;
+        margin: 2em 1em 1em;
+
+}
+
+#cta{
+    margin-top: 2px;
+    padding:5% 10% 2%;
+    text-align: center;
+    background-color: #FFD1D1;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 3%;
+}
+
+ 
